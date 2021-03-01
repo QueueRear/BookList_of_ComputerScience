@@ -7,10 +7,10 @@
 
 [Aditya Bhargava-算法图解](https://github.com/QueueRear/BookList_of_ComputerScience/blob/main/算法图解.pdf)
 
-[周志华-机器学习]()
+[周志华-机器学习](https://pan.baidu.com/s/1SyfbKlUw1uWJXXHlwdUSjA) 【文件太大，走度盘，提取码：20h3】
 
-[谢希仁-计算机网络（第七版）]()
+[谢希仁-计算机网络（第七版）](https://pan.baidu.com/s/1gsk3JOJ5YF-N4rkszQt9hA) 【文件太大，走度盘，提取码：vp8i】
 
-[Python进阶](https://github.com/QueueRear/BookList_of_ComputerScience/blob/main/Python进阶.pdf)
+[yasoob-Intermediate Python（Python进阶）](https://github.com/QueueRear/BookList_of_ComputerScience/blob/main/Python进阶.pdf)
 
-[TCP/IP详解](https://github.com/QueueRear/BookList_of_ComputerScience/blob/main/TCP%20IP详解)
+[Kevin R. Fall & W. Richard Stevens-TCP/IP详解](https://github.com/QueueRear/BookList_of_ComputerScience/blob/main/TCP%20IP详解)
