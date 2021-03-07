@@ -16,3 +16,5 @@
 [Kevin R. Fall & W. Richard Stevens-TCP/IP详解](https://github.com/QueueRear/BookList_of_ComputerScience/blob/main/TCP%20IP详解)
 
 [石文昌-信息系统安全概论（第2版）](https://github.com/QueueRear/BookList_of_ComputerScience/blob/main/信息系统安全概论（第2版）_石文昌.pdf)
+
+[Thomas H. Cormen, etc.-Introduction to Algorithms（算法导论第3版）](https://pan.baidu.com/s/14EEsVx9KEm6AdBxuHqg5Vw)【文件太大，走度盘，提取码：9t7l】
